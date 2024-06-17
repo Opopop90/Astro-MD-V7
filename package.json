@@ -54,7 +54,7 @@
 "pm2": "^5.2.0",
 "api-dylux": "latest",
 "fluent-ffmpeg": "^2.1.2",
-"jsdom": "^16.4.0",
+"jsdom": "^17.0.0",
 "jimp": "^0.16.2", 
 "g-i-s": "^2.1.6",
 "@hapi/boom" : "^10.0.0",

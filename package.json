@@ -51,7 +51,7 @@
 "node-fetch": "^2.6.1" ,
 "express": "latest",
 "util": "^0.12.4",
-"pm2": "^5.2.0",
+"pm2": "^6.0.9",
 "api-dylux": "latest",
 "fluent-ffmpeg": "^2.1.2",
 "jsdom": "^16.4.0",
